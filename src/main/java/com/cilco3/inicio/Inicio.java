@@ -6,6 +6,7 @@ public class Inicio {
         System.out.println("Hola desarrolladores");
         System.out.println("Hola desarrolladores");
         System.out.println("Solucion de conexion");
+        System.out.println("Esta es una linea que solo esta en la Rama de ModalidadMovil");
 
     }
 }
